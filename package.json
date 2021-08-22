@@ -1,0 +1,20 @@
+{
+  "name": "com.deltatimer.moq4-unity",
+  "version": "1.0.0",
+  "displayName": "Moq4 for Unity",
+  "description": "Necessary Moq4 dlls for Unity",
+  "unity": "2017.1",
+  "license": "BSD-3-Clause",
+  "documentationUrl": "https://github.com/daleth90/moq4-unity/",
+  "licensesUrl": "https://github.com/daleth90/moq4-unity/blob/main/LICENSE.md",
+  "keywords": [
+    "unity",
+    "moq",
+	"test",
+	"mock"
+  ],
+  "author": {
+    "name": "daleth90",
+    "email": "daleth90@gmail.com"
+  }
+}
